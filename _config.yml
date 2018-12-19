@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          My true thinking and story
+description:    "This is my blog. I write everything about what I think and my story."
 baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://vndee.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
+  name:         Duy V. Huynh
+  url:          https://vndee.github.io
   email:        chesterhow@gmail.com
 
 # Build settings
