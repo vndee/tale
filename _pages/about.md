@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-author: Chester
+author: Duy Huynh
 permalink: /about/
 published: true
 ---
